@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Winter Zone Mini 1.0/demo scenes/unityTerrain_1_fx_demo.unity
+  isLoaded: 1
+  isActive: 1
